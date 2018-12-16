@@ -21,7 +21,7 @@ git clone git://github.com/raspberrycoulis/remove-bloat.git
 
 Then make the script executable:
 ```
-sudo chmod +x remove-bloat.sh
+cd remove-bloat && sudo chmod +x remove-bloat.sh
 ```
 
 Run with:
